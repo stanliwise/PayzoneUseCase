@@ -15,7 +15,7 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "php-open-source-saver/jwt-auth": "^2.1",
-        "stanliwise/parkway-wallet-sdk": "^1.0.0"
+        "stanliwise/parkway-wallet-sdk": "^1.0.8"
     },
     "require-dev": {
         "facade/ignition": "^2.5",

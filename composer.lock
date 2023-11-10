@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c47bccd670d937186a325b7d93239b67",
+    "content-hash": "cbe28e041c1353deb751939e6378f882",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3298,11 +3298,11 @@
         },
         {
             "name": "stanliwise/parkway-wallet-sdk",
-            "version": "1.0.2",
+            "version": "1.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stanliwise/Parkway-Wallet-Sdk.git",
-                "reference": "322e648b2f1668f28b9343edda6470e377c5e69f"
+                "reference": "3bb0e91e8d8e68f1a0c5cca701d8ac05a5e1c658"
             },
             "require": {
                 "php": "^7.4",
@@ -3333,7 +3333,7 @@
                     "role": "Backend Developer"
                 }
             ],
-            "time": "2023-11-10T21:19:20+00:00"
+            "time": "2023-11-10T21:40:18+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
