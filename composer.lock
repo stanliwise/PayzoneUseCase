@@ -3302,7 +3302,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stanliwise/Parkway-Wallet-Sdk.git",
-                "reference": "9136514c84571b90f726b40e6f512c91b487f51c"
+                "reference": "dea504df700d2e4a1af5164eed99ad665f49372a"
             },
             "require": {
                 "php": "^7.4",
@@ -3333,7 +3333,7 @@
                     "role": "Backend Developer"
                 }
             ],
-            "time": "2023-09-20T22:28:21+00:00"
+            "time": "2023-11-10T20:51:48+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
